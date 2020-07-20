@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "268562210332",
+    "firebase_url": "https://healthy-vegetables.firebaseio.com",
+    "project_id": "healthy-vegetables",
+    "storage_bucket": "healthy-vegetables.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268562210332:android:4d5f200f22c617d2d4c9d9",
+        "android_client_info": {
+          "package_name": "com.example.vegetablesdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268562210332-mv4ov88oemg0kgso5al2m4vsnma5nhb3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vegetablesdelivery",
+            "certificate_hash": "14faea47aeea50715b26a5ece34a9042feab1338"
+          }
+        },
+        {
+          "client_id": "268562210332-u469me8ragho3qp7ecllrf9c575vqhk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX3nk_r9JYKUuIbbQiRTOLzBpguUszcOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268562210332-u469me8ragho3qp7ecllrf9c575vqhk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268562210332:android:8bc173e12d81b040d4c9d9",
+        "android_client_info": {
+          "package_name": "com.example.vegetablesdeliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268562210332-915kgci8lruk6job7mldjgkv1nubkpjo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vegetablesdeliveryapp",
+            "certificate_hash": "380ea8218313c994057d904d75c687c2f38cd9a4"
+          }
+        },
+        {
+          "client_id": "268562210332-u469me8ragho3qp7ecllrf9c575vqhk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX3nk_r9JYKUuIbbQiRTOLzBpguUszcOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268562210332-u469me8ragho3qp7ecllrf9c575vqhk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
